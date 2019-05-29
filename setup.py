@@ -12,9 +12,9 @@ with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
 
 setuptools.setup(
-    name="lambdadata-TheDon"
-    version='0.0.1',
-    author='TheJoys2019'
+    name="lambdadata-TheDon",
+    version="0.0.1",
+    author='TheJoys2019',
     description='A collection of Data Science Helper Functions',
     long_description=LONG_DESCRIPTION,
     long_description_content_type='text/markdown',
